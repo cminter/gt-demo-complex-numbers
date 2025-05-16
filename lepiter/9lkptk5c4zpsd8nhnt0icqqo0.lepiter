@@ -18,7 +18,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-15T22:09:12.264-07:00"
+						"dateAndTimeString" : "2025-05-15T22:29:52.272-07:00"
 					}
 				},
 				"editEmail" : {
@@ -29,12 +29,12 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-15T22:09:12.264-07:00"
+						"dateAndTimeString" : "2025-05-15T22:29:52.272-07:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "QNUVhZvxDQCMiDK3AN8kog=="
+					"uidString" : "gNr+zpvxDQCmvz5NAN8kog=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
@@ -55,7 +55,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-15T22:09:20.962-07:00"
+						"dateAndTimeString" : "2025-05-15T23:44:21.491-07:00"
 					}
 				},
 				"editEmail" : {
@@ -66,51 +66,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-15T22:10:13.922-07:00"
+						"dateAndTimeString" : "2025-05-15T23:48:02.524-07:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "0I2ahZvxDQCMy7RMAN8kog=="
+					"uidString" : "OLlh2ZzxDQC5qF+IAN8kog=="
 				},
-				"url" : "attachments/9lkptk473xtyav5q0bjc3p8i0/01a-Complex-overview-1.png",
-				"caption" : "Overview",
-				"previewHeight" : 300,
-				"reference" : ""
-			},
-			{
-				"__type" : "pictureSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-15T22:10:19.298-07:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-15T22:10:35.232-07:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "0LAUiZvxDQCOAZPRAN8kog=="
-				},
-				"url" : "attachments/9lkptk57zfk5v8rjkjt4kcaps/01b-Complex-class-create-1.png",
+				"url" : "attachments/9lkptk6kuwm1jlcflwwf3vsiw/02a-ComplexExamples-new.png",
 				"caption" : "",
 				"previewHeight" : 300,
 				"reference" : ""
@@ -129,7 +92,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-15T22:10:53.615-07:00"
+						"dateAndTimeString" : "2025-05-15T23:48:11.37-07:00"
 					}
 				},
 				"editEmail" : {
@@ -140,14 +103,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-15T22:11:05.107-07:00"
+						"dateAndTimeString" : "2025-05-15T23:48:21.783-07:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "mFMgi5vxDQCObpZDAN8kog=="
+					"uidString" : "EGYV55zxDQC6fMULAN8kog=="
 				},
-				"url" : "attachments/9lkptk3qpr29noep02h8vlfaw/01c-Complex-class-create-2.png",
+				"url" : "attachments/9lkptk1l7tk2fqt7otlzx5qy0/02b-ComplexExamples-new.png",
 				"caption" : "",
 				"previewHeight" : 300,
 				"reference" : ""
@@ -166,7 +129,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-15T22:11:25.958-07:00"
+						"dateAndTimeString" : "2025-05-15T23:48:33.53-07:00"
 					}
 				},
 				"editEmail" : {
@@ -177,14 +140,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-15T22:11:45.641-07:00"
+						"dateAndTimeString" : "2025-05-15T23:48:54.259-07:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "cNcNjZvxDQCO3gRmAN8kog=="
+					"uidString" : "kIhn6JzxDQC7UpEKAN8kog=="
 				},
-				"url" : "attachments/9lkptk36twsorvpovbkygie20/01d-Complex-class-real-imaginary-1.png",
+				"url" : "attachments/9lkptk07kj7l3fw84hwfkfihs/02c-ComplexExamples-new.png",
 				"caption" : "",
 				"previewHeight" : 300,
 				"reference" : ""
@@ -203,7 +166,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-15T22:12:08.711-07:00"
+						"dateAndTimeString" : "2025-05-15T23:49:05.65-07:00"
 					}
 				},
 				"editEmail" : {
@@ -214,14 +177,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-15T22:12:27.825-07:00"
+						"dateAndTimeString" : "2025-05-15T23:49:33.024-07:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "WDOaj5vxDQCPUSKyAN8kog=="
+					"uidString" : "UKVR6pzxDQC8K8O2AN8kog=="
 				},
-				"url" : "attachments/9lkptk55wrohwpy9dvpx2x8bs/01e-Complex-class-real-imaginary-2.png",
+				"url" : "attachments/9lkptk5879og13jbedgdia03c/02d-ComplexExamples-init-error.png",
 				"caption" : "",
 				"previewHeight" : 300,
 				"reference" : ""
@@ -240,7 +203,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-15T22:15:49.883-07:00"
+						"dateAndTimeString" : "2025-05-15T23:49:54.565-07:00"
 					}
 				},
 				"editEmail" : {
@@ -251,14 +214,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-15T22:16:06.7-07:00"
+						"dateAndTimeString" : "2025-05-15T23:50:08.804-07:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "eATJnJvxDQCQu41sAN8kog=="
+					"uidString" : "iAc87ZzxDQC9CNmtAN8kog=="
 				},
-				"url" : "attachments/9lkptk2nd695q97u19xo6v1og/01g-Complex-new-r-i-1.png",
+				"url" : "attachments/9lkptk5sxdvc4ytfd79ya9bv4/02e-ComplexExamples-init-error.png",
 				"caption" : "",
 				"previewHeight" : 300,
 				"reference" : ""
@@ -277,7 +240,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-15T22:16:27.204-07:00"
+						"dateAndTimeString" : "2025-05-15T23:50:23.487-07:00"
 					}
 				},
 				"editEmail" : {
@@ -288,14 +251,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-15T22:16:59.962-07:00"
+						"dateAndTimeString" : "2025-05-15T23:50:47.629-07:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "oH0Cn5vxDQCRNIfKAN8kog=="
+					"uidString" : "GFj17pzxDQC96ISQAN8kog=="
 				},
-				"url" : "attachments/9lkptk1x7sfc7ki0266azynyo/01h-Complex-new-r-i-2.png",
+				"url" : "attachments/9lkptk5wkb0dzkmyc9g861ni0/02f-ComplexExamples-slot-rename.png",
 				"caption" : "",
 				"previewHeight" : 300,
 				"reference" : ""
@@ -314,7 +277,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-15T22:17:22.358-07:00"
+						"dateAndTimeString" : "2025-05-15T23:51:07.027-07:00"
 					}
 				},
 				"editEmail" : {
@@ -325,14 +288,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-15T22:17:36.557-07:00"
+						"dateAndTimeString" : "2025-05-15T23:51:19.725-07:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "8BJMopvxDQCR2djwAN8kog=="
+					"uidString" : "OLaN8ZzxDQC/FQQqAN8kog=="
 				},
-				"url" : "attachments/9lkptk2uguam72j8z24qk4zk0/01i-Complex-new-r-i-3.png",
+				"url" : "attachments/9lkptk3mnqudw5o9rz5ra3m88/02g-ComplexExamples-r-accessor.png",
 				"caption" : "",
 				"previewHeight" : 300,
 				"reference" : ""
@@ -351,7 +314,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-15T22:17:45.806-07:00"
+						"dateAndTimeString" : "2025-05-15T23:51:26.25-07:00"
 					}
 				},
 				"editEmail" : {
@@ -362,14 +325,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-15T22:18:20.964-07:00"
+						"dateAndTimeString" : "2025-05-15T23:51:40.449-07:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "sNyxo5vxDQCSL/yZAN8kog=="
+					"uidString" : "EAiz8pzxDQC/r77HAN8kog=="
 				},
-				"url" : "attachments/9lkptk2ri4q6p49x4ylnou60g/01k-Complex-new-r-i-5.png",
+				"url" : "attachments/9lkptk2i8dbfubbdfa6dyj5cg/02h-ComplexExamples-r-accessor.png",
 				"caption" : "",
 				"previewHeight" : 300,
 				"reference" : ""
@@ -388,7 +351,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-15T22:18:37.031-07:00"
+						"dateAndTimeString" : "2025-05-15T23:52:21.344-07:00"
 					}
 				},
 				"editEmail" : {
@@ -399,14 +362,162 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-15T22:18:50.562-07:00"
+						"dateAndTimeString" : "2025-05-15T23:52:45.676-07:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "WH6/ppvxDQCSsbOvAN8kog=="
+					"uidString" : "ALP79ZzxDQCA457TAN8kog=="
 				},
-				"url" : "attachments/9lkptk6cke8kvkdfw2ebqqabc/01l-Complex-initialize.png",
+				"url" : "attachments/9lkptk3w3kbkyzaapdeyu9lpc/02i-ComplexExamples-i-accessor.png",
+				"caption" : "",
+				"previewHeight" : 300,
+				"reference" : ""
+			},
+			{
+				"__type" : "pictureSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-15T23:52:54.221-07:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-15T23:53:06.695-07:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "yFzx95zxDQCBz8PhAN8kog=="
+				},
+				"url" : "attachments/9lkptk17x4owocxr29ms1pm2w/02j-ComplexExamples-i-accessor.png",
+				"caption" : "",
+				"previewHeight" : 300,
+				"reference" : ""
+			},
+			{
+				"__type" : "pictureSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-15T23:53:28.819-07:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-15T23:54:45.513-07:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "OEkB+pzxDQCCvjegAN8kog=="
+				},
+				"url" : "attachments/9lkptk6vfjavly1m7o212338g/02k-ComplexExamples-init-pass.png",
+				"caption" : "",
+				"previewHeight" : 300,
+				"reference" : ""
+			},
+			{
+				"__type" : "pictureSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-15T23:54:58.873-07:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-15T23:55:09.168-07:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "qGZf/5zxDQCET48kAN8kog=="
+				},
+				"url" : "attachments/9lkptk1qkv66cwvtfdsx0femw/02l-ComplexExamples-equal_hash.png",
+				"caption" : "",
+				"previewHeight" : 300,
+				"reference" : ""
+			},
+			{
+				"__type" : "pictureSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-15T23:55:29.861-07:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-15T23:55:45.694-07:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "iD04AZ3xDQCFQ2YYAN8kog=="
+				},
+				"url" : "attachments/9lkptk35sbq2sm3ixwkurbda0/02m-ComplexExamples-equalr1i2-pass.png",
 				"caption" : "",
 				"previewHeight" : 300,
 				"reference" : ""
@@ -421,7 +532,7 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2025-05-15T22:09:12.248-07:00"
+			"dateAndTimeString" : "2025-05-15T22:29:52.256-07:00"
 		}
 	},
 	"editEmail" : {
@@ -432,15 +543,15 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2025-05-15T22:09:12.248-07:00"
+			"dateAndTimeString" : "2025-05-15T22:29:52.256-07:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "Screenshots"
+		"title" : "Screenshots 2"
 	},
 	"uid" : {
 		"__type" : "uuid",
-		"uuid" : "c0961585-9bf1-0d00-8c87-d1dd00df24a2"
+		"uuid" : "805dfece-9bf1-0d00-a6be-30b600df24a2"
 	}
 }

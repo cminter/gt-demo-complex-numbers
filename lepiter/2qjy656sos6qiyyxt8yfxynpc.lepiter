@@ -463,6 +463,80 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-15T22:25:41.553-07:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-15T22:25:48.441-07:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "aC8NwJvxDQCix2fFAN8kog=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "###Part 1"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-15T22:23:56.109-07:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-15T22:24:29.33-07:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "yDzEuZvxDQCatULKAN8kog=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "(for this section see [[Screenshots 1]])"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
 						"dateAndTimeString" : "2025-05-15T15:11:43.369-07:00"
 					}
 				},
@@ -545,7 +619,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-15T22:09:09.947-07:00"
+						"dateAndTimeString" : "2025-05-15T22:24:47.73-07:00"
 					}
 				},
 				"uid" : {
@@ -555,7 +629,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Also created instance {{gtMethod:name=Complex>>initialize}} that initalizes each part with zero.  It may not be needed if we are always careful to explicitly initialize both parts.  (see [[Screenshots]])"
+				"string" : "Also created instance {{gtMethod:name=Complex>>initialize}} that initalizes each part with zero.  It may not be needed if we are always careful to explicitly initialize both parts."
 			},
 			{
 				"__type" : "textSnippet",
@@ -571,7 +645,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-15T18:05:31.422-07:00"
+						"dateAndTimeString" : "2025-05-15T22:25:56.777-07:00"
 					}
 				},
 				"editEmail" : {
@@ -582,7 +656,81 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-15T18:05:31.422-07:00"
+						"dateAndTimeString" : "2025-05-15T22:26:00.391-07:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "KHz1wJvxDQCkJZBVAN8kog=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "###Part 2"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-15T22:29:36.231-07:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-15T22:29:49.573-07:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "WBYKzpvxDQClyQ1oAN8kog=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "(for this section see [[Screenshots 2]])"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-15T22:21:12.994-07:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-15T22:21:41.461-07:00"
 					}
 				},
 				"uid" : {
@@ -592,7 +740,161 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : ""
+				"string" : "Add a few test examples for what we have so far"
+			},
+			{
+				"__type" : "exampleSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-15T23:16:28.67-07:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-15T23:16:28.67-07:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "yD2sdZzxDQCxEnwkAN8kog=="
+				},
+				"exampleSelector" : "init",
+				"previewHeight" : 200,
+				"previewShowSelector" : "gtViewsFor:",
+				"exampleBehaviorName" : "ComplexExamples",
+				"codeExpanded" : true,
+				"previewExpanded" : false,
+				"noCode" : false
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-15T23:00:40.132-07:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-15T23:13:14.037-07:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "oPUiPZzxDQCm4fNOAN8kog=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Initially I forgot to implement {{gtMethod:name=Complex>>r}} and {{gtMethod:name=Complex>>i}} and then I realized it is better for accessors to match slots and shorten them.  Now the example passes."
+			},
+			{
+				"__type" : "exampleSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-15T23:42:54.385-07:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-15T23:42:54.385-07:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "aJcw1JzxDQC5QB7UAN8kog=="
+				},
+				"exampleSelector" : "equalr1i2",
+				"previewHeight" : 200,
+				"previewShowSelector" : "gtViewsFor:",
+				"exampleBehaviorName" : "ComplexExamples",
+				"codeExpanded" : true,
+				"previewExpanded" : false,
+				"noCode" : false
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-15T23:36:51.426-07:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-15T23:40:14.379-07:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "0EaOvpzxDQCxXZ1gAN8kog=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "But this failed at first because I did not have *equality* defined.  I actually didn't understand the error but I realized this had to be part of the problem.  Implemented {{gtMethod:name=Complex>>=}} and {{gtMethod:name=Complex>>hash}} where the hash algorithm I copied from {{gtMethod:name=Point>>hash}}.  And now this example passes."
 			}
 		]
 	},
