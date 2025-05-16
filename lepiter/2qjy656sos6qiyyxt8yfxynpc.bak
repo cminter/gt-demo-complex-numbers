@@ -66,7 +66,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-15T01:16:08.346-07:00"
+						"dateAndTimeString" : "2025-05-15T17:14:59.865-07:00"
 					}
 				},
 				"uid" : {
@@ -76,7 +76,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "1. Learn more Smalltalk by making your own *complex numbers* class."
+				"string" : "1. Learn more Smalltalk by building a class for *complex numbers*."
 			},
 			{
 				"__type" : "textSnippet",
@@ -400,7 +400,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-15T01:40:11.795-07:00"
+						"dateAndTimeString" : "2025-05-15T01:40:43.635-07:00"
 					}
 				},
 				"uid" : {
@@ -410,13 +410,159 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Should be able to add Complex numbers and regular Numbers"
+				"string" : "Should be able to use Complex numbers operations with regular numbers."
 			},
 			{
 				"__type" : "textSnippet",
 				"children" : {
 					"__type" : "snippets",
 					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-15T15:11:18.069-07:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-15T15:11:32.826-07:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "IPeLrpXxDQCtxdZMAN8kog=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "#Interactive development"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-15T15:11:43.369-07:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-15T17:13:06.617-07:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "uKlyr5XxDQCuQWYLAN8kog=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Construct a complex number"
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-15T15:12:03.864-07:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-15T17:28:42.447-07:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "2L1GsZXxDQCu5YJ0AN8kog=="
+				},
+				"code" : "Complex real: 1 imaginary: 2 "
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [
+						{
+							"__type" : "pictureSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-15T18:26:09.728-07:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2025-05-15T18:42:41.72-07:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "AIpsZ5jxDQCEkRUeAN8kog=="
+							},
+							"url" : "",
+							"caption" : "",
+							"previewHeight" : 0,
+							"reference" : ""
+						}
+					]
 				},
 				"createEmail" : {
 					"__type" : "email",
@@ -437,12 +583,49 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-15T01:15:56.104-07:00"
+						"dateAndTimeString" : "2025-05-15T22:09:09.947-07:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "cHULA4rxDQCFvZbxBto9Lg=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Also created instance {{gtMethod:name=Complex>>initialize}} that initalizes each part with zero.  It may not be needed if we are always careful to explicitly initialize both parts.  (see [[Screenshots]])"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-15T18:05:31.422-07:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-15T18:05:31.422-07:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "SHmdHZjxDQC/RYxwAN8kog=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"

@@ -1,0 +1,446 @@
+{
+	"__schema" : "4.1",
+	"__type" : "page",
+	"children" : {
+		"__type" : "snippets",
+		"items" : [
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-15T22:09:12.264-07:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-15T22:09:12.264-07:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "QNUVhZvxDQCMiDK3AN8kog=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : ""
+			},
+			{
+				"__type" : "pictureSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-15T22:09:20.962-07:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-15T22:10:13.922-07:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "0I2ahZvxDQCMy7RMAN8kog=="
+				},
+				"url" : "attachments/9lkptk473xtyav5q0bjc3p8i0/01a-Complex-overview-1.png",
+				"caption" : "Overview",
+				"previewHeight" : 300,
+				"reference" : ""
+			},
+			{
+				"__type" : "pictureSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-15T22:10:19.298-07:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-15T22:10:35.232-07:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "0LAUiZvxDQCOAZPRAN8kog=="
+				},
+				"url" : "attachments/9lkptk57zfk5v8rjkjt4kcaps/01b-Complex-class-create-1.png",
+				"caption" : "",
+				"previewHeight" : 300,
+				"reference" : ""
+			},
+			{
+				"__type" : "pictureSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-15T22:10:53.615-07:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-15T22:11:05.107-07:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "mFMgi5vxDQCObpZDAN8kog=="
+				},
+				"url" : "attachments/9lkptk3qpr29noep02h8vlfaw/01c-Complex-class-create-2.png",
+				"caption" : "",
+				"previewHeight" : 300,
+				"reference" : ""
+			},
+			{
+				"__type" : "pictureSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-15T22:11:25.958-07:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-15T22:11:45.641-07:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "cNcNjZvxDQCO3gRmAN8kog=="
+				},
+				"url" : "attachments/9lkptk36twsorvpovbkygie20/01d-Complex-class-real-imaginary-1.png",
+				"caption" : "",
+				"previewHeight" : 300,
+				"reference" : ""
+			},
+			{
+				"__type" : "pictureSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-15T22:12:08.711-07:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-15T22:12:27.825-07:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "WDOaj5vxDQCPUSKyAN8kog=="
+				},
+				"url" : "attachments/9lkptk55wrohwpy9dvpx2x8bs/01e-Complex-class-real-imaginary-2.png",
+				"caption" : "",
+				"previewHeight" : 300,
+				"reference" : ""
+			},
+			{
+				"__type" : "pictureSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-15T22:15:49.883-07:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-15T22:16:06.7-07:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "eATJnJvxDQCQu41sAN8kog=="
+				},
+				"url" : "attachments/9lkptk2nd695q97u19xo6v1og/01g-Complex-new-r-i-1.png",
+				"caption" : "",
+				"previewHeight" : 300,
+				"reference" : ""
+			},
+			{
+				"__type" : "pictureSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-15T22:16:27.204-07:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-15T22:16:59.962-07:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "oH0Cn5vxDQCRNIfKAN8kog=="
+				},
+				"url" : "attachments/9lkptk1x7sfc7ki0266azynyo/01h-Complex-new-r-i-2.png",
+				"caption" : "",
+				"previewHeight" : 300,
+				"reference" : ""
+			},
+			{
+				"__type" : "pictureSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-15T22:17:22.358-07:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-15T22:17:36.557-07:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "8BJMopvxDQCR2djwAN8kog=="
+				},
+				"url" : "attachments/9lkptk2uguam72j8z24qk4zk0/01i-Complex-new-r-i-3.png",
+				"caption" : "",
+				"previewHeight" : 300,
+				"reference" : ""
+			},
+			{
+				"__type" : "pictureSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-15T22:17:45.806-07:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-15T22:18:20.964-07:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "sNyxo5vxDQCSL/yZAN8kog=="
+				},
+				"url" : "attachments/9lkptk2ri4q6p49x4ylnou60g/01k-Complex-new-r-i-5.png",
+				"caption" : "",
+				"previewHeight" : 300,
+				"reference" : ""
+			},
+			{
+				"__type" : "pictureSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-15T22:18:37.031-07:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-15T22:18:37.031-07:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "WH6/ppvxDQCSsbOvAN8kog=="
+				},
+				"url" : "",
+				"caption" : "",
+				"previewHeight" : 0,
+				"reference" : ""
+			}
+		]
+	},
+	"createEmail" : {
+		"__type" : "email",
+		"emailString" : "<unknown>"
+	},
+	"createTime" : {
+		"__type" : "time",
+		"time" : {
+			"__type" : "dateAndTime",
+			"dateAndTimeString" : "2025-05-15T22:09:12.248-07:00"
+		}
+	},
+	"editEmail" : {
+		"__type" : "email",
+		"emailString" : "<unknown>"
+	},
+	"editTime" : {
+		"__type" : "time",
+		"time" : {
+			"__type" : "dateAndTime",
+			"dateAndTimeString" : "2025-05-15T22:09:12.248-07:00"
+		}
+	},
+	"pageType" : {
+		"__type" : "namedPage",
+		"title" : "Screenshots"
+	},
+	"uid" : {
+		"__type" : "uuid",
+		"uuid" : "c0961585-9bf1-0d00-8c87-d1dd00df24a2"
+	}
+}
