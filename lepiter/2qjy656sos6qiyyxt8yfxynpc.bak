@@ -1751,6 +1751,46 @@
 				"noCode" : false
 			},
 			{
+				"__type" : "exampleSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-16T19:57:25.304-07:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-16T19:57:25.304-07:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "wJKiy63xDQCNfjmwA2cCjg=="
+				},
+				"exampleSelector" : "floatisum",
+				"previewHeight" : 200,
+				"previewShowSelector" : "gtViewsFor:",
+				"exampleBehaviorName" : "ComplexExamples",
+				"codeExpanded" : true,
+				"previewExpanded" : false,
+				"noCode" : false
+			},
+			{
 				"__type" : "textSnippet",
 				"children" : {
 					"__type" : "snippets",
@@ -1764,7 +1804,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-16T19:16:54.515-07:00"
+						"dateAndTimeString" : "2025-05-16T20:04:48.514-07:00"
 					}
 				},
 				"editEmail" : {
@@ -1775,7 +1815,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-16T19:16:54.515-07:00"
+						"dateAndTimeString" : "2025-05-16T20:04:58.213-07:00"
 					}
 				},
 				"uid" : {
@@ -1785,7 +1825,44 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : ""
+				"string" : "###Part 5"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-16T20:04:59.164-07:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-16T20:05:17.763-07:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "eOmv5q3xDQCRghxUA2cCjg=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "(for this section see [[Screenshots 5]])"
 			},
 			{
 				"__type" : "textSnippet",

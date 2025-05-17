@@ -399,16 +399,16 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-16T20:53:01.779-07:00"
+						"dateAndTimeString" : "2025-05-16T20:52:51.833-07:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "wFzpka7xDQCj+42bA2cCjg=="
 				},
-				"url" : "attachments/8enuyc0nfm374f9j37oxsavmw/04j-SmallFloat.png",
+				"url" : "",
 				"caption" : "",
-				"previewHeight" : 300,
+				"previewHeight" : 0,
 				"reference" : ""
 			}
 		]
