@@ -54,6 +54,26 @@ ComplexExamples >> equalr1i2 [
 	^ c1
 ]
 
+{ #category : #example }
+ComplexExamples >> floatisum [
+	<gtExample>
+	| c1 c3 |
+	c1 := self notEqualc1c2 at: 1.
+	c3 := c1 + 1.2 i.
+	self assert: c3 equals: (Complex real: 3 imaginary: 5.2).
+	^ c3
+]
+
+{ #category : #example }
+ComplexExamples >> floatrsum [
+	<gtExample>
+	| c1 c3 |
+	c1 := self notEqualc1c2 at: 1.
+	c3 := c1 + 1.2.
+	self assert: c3 equals: (Complex real: 4.2 imaginary: 4).
+	^ c3
+]
+
 { #category : #accessing }
 ComplexExamples >> init [
 	<gtExample>

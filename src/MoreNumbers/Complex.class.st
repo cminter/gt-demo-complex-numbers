@@ -22,8 +22,10 @@ Complex >> * c2 [
 ]
 
 { #category : #operators }
-Complex >> + c2 [ 
-	^ Complex real: (r + c2 r) imaginary: (i + c2 i)
+Complex >> + v2 [ 
+	^ (v2 isKindOf: Complex)
+		ifFalse: [ self + v2 asComplex]
+		ifTrue: [ Complex real: (r + v2 r) imaginary: (i + v2 i) ]
 ]
 
 { #category : #accessing }
