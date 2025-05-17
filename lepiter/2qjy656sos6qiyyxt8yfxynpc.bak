@@ -2136,7 +2136,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-16T21:10:26.187-07:00"
+						"dateAndTimeString" : "2025-05-16T21:35:59.12-07:00"
 					}
 				},
 				"uid" : {
@@ -2146,7 +2146,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Finish by adding examples for each case."
+				"string" : "Finish by adding {{gtClass:name=ComplexExamples}} for each case."
 			},
 			{
 				"__type" : "exampleSnippet",
@@ -2267,6 +2267,157 @@
 				"codeExpanded" : true,
 				"previewExpanded" : false,
 				"noCode" : false
+			},
+			{
+				"__type" : "exampleSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-16T21:20:09.974-07:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-16T21:20:09.974-07:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "CGmN867xDQCYAbcdA2cCjg=="
+				},
+				"exampleSelector" : "fic1sum",
+				"previewHeight" : 200,
+				"previewShowSelector" : "gtViewsFor:",
+				"exampleBehaviorName" : "ComplexExamples",
+				"codeExpanded" : true,
+				"previewExpanded" : false,
+				"noCode" : false
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-16T21:27:45.738-07:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-16T21:27:54.627-07:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "QM23Dq/xDQCiSl9MDbsSaA=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "###Part 6"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-16T21:31:35.625-07:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-16T21:31:52.63-07:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "QJ1rHK/xDQCdPBnaDbsSaA=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "(for this section see [[Screenshots 6]])"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-16T21:28:30.148-07:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-16T21:38:13.269-07:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "GKheD6/xDQCie7OFDbsSaA=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "When we implemented the common {{gtMethod:name=Complex>>adaptToNumber:andSend:}} we realize the `i` and `asComplex` methods on {{gtClass:name=SmallInteger}} and {{gtClass:name=SmallFloat64}} are also identical.  We can use the UI to *push*  up to {{gtClass:name=Number}} and share the implementation.  I pushed from SmalInteger to Integer and then again from Integer to Number for both.  Then remove both methods from SmallFloat64.  Run the tests to confirm "
 			},
 			{
 				"__type" : "textSnippet",

@@ -1,11 +1,11 @@
-Extension { #name : #SmallInteger }
+Extension { #name : #Number }
 
 { #category : #'*MoreNumbers' }
-SmallInteger >> asComplex [
+Number >> asComplex [
 	^ Complex real: self imaginary: 0
 ]
 
 { #category : #'*MoreNumbers' }
-SmallInteger >> i [
+Number >> i [
 	^ Complex real: 0 imaginary: self
 ]
