@@ -1804,7 +1804,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-16T20:04:48.514-07:00"
+						"dateAndTimeString" : "2025-05-16T19:16:55.559-07:00"
 					}
 				},
 				"editEmail" : {
@@ -1815,12 +1815,12 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-16T20:04:58.213-07:00"
+						"dateAndTimeString" : "2025-05-16T20:54:11.829-07:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "UKm/Oq3xDQCDMStWA2cCjg=="
+					"uidString" : "iJPPOq3xDQCDNZFSA2cCjg=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
@@ -1841,7 +1841,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-16T20:04:59.164-07:00"
+						"dateAndTimeString" : "2025-05-16T20:54:12.679-07:00"
 					}
 				},
 				"editEmail" : {
@@ -1852,12 +1852,12 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-16T20:05:17.763-07:00"
+						"dateAndTimeString" : "2025-05-16T20:54:43.859-07:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "eOmv5q3xDQCRghxUA2cCjg=="
+					"uidString" : "cPm6lq7xDQCoKURgA2cCjg=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
@@ -1878,7 +1878,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-16T19:16:55.559-07:00"
+						"dateAndTimeString" : "2025-05-16T20:55:31.692-07:00"
 					}
 				},
 				"editEmail" : {
@@ -1889,17 +1889,51 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-16T19:16:55.559-07:00"
+						"dateAndTimeString" : "2025-05-16T20:55:47.334-07:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "iJPPOq3xDQCDNZFSA2cCjg=="
+					"uidString" : "MDMyma7xDQCqo1D9A2cCjg=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : ""
+				"string" : "Make sure operations are commutative."
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-16T20:55:58.217-07:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-16T20:59:38.82-07:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "QFsFna7xDQCz7AsiA2cCjg=="
+				},
+				"code" : "1 + c1"
 			},
 			{
 				"__type" : "textSnippet",
@@ -1915,7 +1949,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-16T19:16:56.236-07:00"
+						"dateAndTimeString" : "2025-05-16T21:00:23.693-07:00"
 					}
 				},
 				"editEmail" : {
@@ -1926,7 +1960,112 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-16T19:16:56.236-07:00"
+						"dateAndTimeString" : "2025-05-16T21:06:27.925-07:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "4DLYrK7xDQC3oB49A2cCjg=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "The plain integer case required implementing gtMethod:name=Complex>>adaptToInteger:andSend: . But what about imaginary and floats."
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-16T21:01:50.173-07:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-16T21:01:55.153-07:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "eMP/sa7xDQCHC2JvA2cCjg=="
+				},
+				"code" : "1 i + c1"
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-16T21:02:30.874-07:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-16T21:02:36.21-07:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "wM9stK7xDQCMw5a1A2cCjg=="
+				},
+				"code" : "1.2 + c1"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-16T21:05:36.369-07:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-16T21:10:08.37-07:00"
 					}
 				},
 				"uid" : {
@@ -1936,7 +2075,41 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : ""
+				"string" : "But the float case also requires another method and we realize it is better to implement the parent class method {{gtMethod:name=Complex>>adaptToNumber:andSend:}} .  The imaginary case does not invoke adaptToNumber:andSend: because it is converted to Complex before the operation selector is called."
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-16T21:08:49.096-07:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-16T21:08:54.574-07:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "WAn4yq7xDQCzw73tA2cCjg=="
+				},
+				"code" : "1.2 i + c1"
 			},
 			{
 				"__type" : "textSnippet",
@@ -1952,7 +2125,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-16T19:16:56.579-07:00"
+						"dateAndTimeString" : "2025-05-16T19:16:56.919-07:00"
 					}
 				},
 				"editEmail" : {
@@ -1963,12 +2136,169 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-16T19:16:56.579-07:00"
+						"dateAndTimeString" : "2025-05-16T21:10:26.187-07:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "0CffOq3xDQCDh8wYA2cCjg=="
+					"uidString" : "CFTkOq3xDQCDi2sEA2cCjg=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Finish by adding examples for each case."
+			},
+			{
+				"__type" : "exampleSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-16T21:19:04.022-07:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-16T21:19:04.022-07:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "8BOf767xDQCTphnHA2cCjg=="
+				},
+				"exampleSelector" : "irc1sum",
+				"previewHeight" : 200,
+				"previewShowSelector" : "gtViewsFor:",
+				"exampleBehaviorName" : "ComplexExamples",
+				"codeExpanded" : true,
+				"previewExpanded" : false,
+				"noCode" : false
+			},
+			{
+				"__type" : "exampleSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-16T21:19:32.329-07:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-16T21:19:32.329-07:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "QP5O8a7xDQCVF38MA2cCjg=="
+				},
+				"exampleSelector" : "iic1sum",
+				"previewHeight" : 200,
+				"previewShowSelector" : "gtViewsFor:",
+				"exampleBehaviorName" : "ComplexExamples",
+				"codeExpanded" : true,
+				"previewExpanded" : false,
+				"noCode" : false
+			},
+			{
+				"__type" : "exampleSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-16T21:19:45.417-07:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-16T21:19:45.417-07:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "QLMW8q7xDQCWiweuA2cCjg=="
+				},
+				"exampleSelector" : "frc1sum",
+				"previewHeight" : 200,
+				"previewShowSelector" : "gtViewsFor:",
+				"exampleBehaviorName" : "ComplexExamples",
+				"codeExpanded" : true,
+				"previewExpanded" : false,
+				"noCode" : false
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-16T21:10:26.489-07:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-16T21:10:26.489-07:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "wCLG0K7xDQCKQoLvA2cCjg=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
@@ -1989,7 +2319,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-16T19:16:56.919-07:00"
+						"dateAndTimeString" : "2025-05-16T21:10:29.096-07:00"
 					}
 				},
 				"editEmail" : {
@@ -2000,12 +2330,86 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-16T19:16:56.919-07:00"
+						"dateAndTimeString" : "2025-05-16T21:10:29.096-07:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "CFTkOq3xDQCDi2sEA2cCjg=="
+					"uidString" : "cObt0K7xDQCKuvDcA2cCjg=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : ""
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-16T21:10:32.07-07:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-16T21:10:32.07-07:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "iEsb0a7xDQCLMrOjA2cCjg=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : ""
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-16T21:10:32.353-07:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-16T21:10:32.353-07:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "GJkf0a7xDQCLNlFYA2cCjg=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"

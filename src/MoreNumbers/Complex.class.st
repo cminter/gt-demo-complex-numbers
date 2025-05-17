@@ -47,6 +47,12 @@ Complex >> = aValue [
 	^ self r = aValue r and: self i = aValue i
 ]
 
+{ #category : #operators }
+Complex >> adaptToNumber: rcvr andSend: selector [
+	"convert receiver to Complex and perform the operation (selector)"
+	^ rcvr asComplex perform: selector with: self
+]
+
 { #category : #equality }
 Complex >> hash [
 	^ ( r hash hashMultiply + i hash) hashMultiply

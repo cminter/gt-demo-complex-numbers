@@ -55,6 +55,16 @@ ComplexExamples >> equalr1i2 [
 ]
 
 { #category : #example }
+ComplexExamples >> fic1sum [
+	<gtExample>
+	| c1 c3 |
+	c1 := self notEqualc1c2 at: 1.
+	c3 := 1.2 i + c1.
+	self assert: c3 equals: (Complex real: 3 imaginary: 5.2).
+	^ c3
+]
+
+{ #category : #example }
 ComplexExamples >> floatisum [
 	<gtExample>
 	| c1 c3 |
@@ -74,6 +84,26 @@ ComplexExamples >> floatrsum [
 	^ c3
 ]
 
+{ #category : #example }
+ComplexExamples >> frc1sum [
+	<gtExample>
+	| c1 c3 |
+	c1 := self notEqualc1c2 at: 1.
+	c3 := 1.2 + c1.
+	self assert: c3 equals: (Complex real: 4.2 imaginary: 4).
+	^ c3
+]
+
+{ #category : #example }
+ComplexExamples >> iic1sum [
+	<gtExample>
+	| c1 c3 |
+	c1 := self notEqualc1c2 at: 1.
+	c3 := 1 i + c1.
+	self assert: c3 equals: (Complex real: 3 imaginary: 5).
+	^ c3
+]
+
 { #category : #accessing }
 ComplexExamples >> init [
 	<gtExample>
@@ -82,6 +112,16 @@ ComplexExamples >> init [
 	self assert: c r equals: 0.
 	self assert: c i equals: 0.
 	^ c
+]
+
+{ #category : #example }
+ComplexExamples >> irc1sum [
+	<gtExample>
+	| c1 c3 |
+	c1 := self notEqualc1c2 at: 1.
+	c3 := 1 + c1.
+	self assert: c3 equals: (Complex real: 4 imaginary: 4).
+	^ c3
 ]
 
 { #category : #example }
